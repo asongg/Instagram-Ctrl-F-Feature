@@ -13,8 +13,8 @@ from selenium_stealth import stealth
 from seleniumwire import webdriver
 import time
 import re
-LOGIN_USER = 'zyqtcx99'
-LOGIN_PASSW = 'AustinS123'
+LOGIN_USER = 'REDACTED'
+LOGIN_PASSW = 'REDACTED'
 # caption_to_scrape = sys.argv[1]
 usernames = ["j.e.bracelets"]
 output = {}
